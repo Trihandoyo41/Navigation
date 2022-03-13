@@ -19,7 +19,7 @@
         <item name="windowNoTitle">true</item>
     </style>
 
-    <style name="Theme.DwiApps.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="Theme.triapps2..AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
-    <style name="Theme.DwiApps.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="Theme.triapps2..PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>
